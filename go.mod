@@ -12,7 +12,7 @@ require (
 	github.com/hexops/autogold/v2 v2.1.0
 	github.com/jaytaylor/html2text v0.0.0-20230321000545-74c2419ad056
 	github.com/olahol/melody v1.1.4
-	github.com/rs/cors v1.10.1
+	github.com/rs/cors v1.11.0
 	github.com/sashabaranov/go-openai v1.18.3
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.0
